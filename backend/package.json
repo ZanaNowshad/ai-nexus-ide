@@ -1,0 +1,15 @@
+
+{
+  "name": "ai-nexus-backend",
+  "version": "1.0.0",
+  "description": "Backend for AI-NEXUS IDE",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pg": "^8.7.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
